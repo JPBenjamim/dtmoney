@@ -1,7 +1,7 @@
 # DT Money
 
 ## DT Money - Controle de finanças.
-<p align="center">O Projeto é um desafio da RockeSeat para se ter controle de suas finanças, usando recursos como hooks, Styled components e Typescript</p>
+<p align="center">O Projeto é um desafio da RockeSeat para se ter controle de suas finanças, usando recursos como hooks, Styled components e Typescript.</p>
 
 <p align="center"> Você pode ver uma demonstrançao do projeto <a href="https://jpmoney.netlify.app/"> aqui! <a/>
 	
