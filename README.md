@@ -13,9 +13,14 @@
 
 ### 🖥 Como usar!
 
-<p align="center"> Você pode ver uma demonstranção do projeto <a href="https://jpmoney.netlify.app/"> aqui! <a/>
+<div align="center">
+	<img  alt="gif dt money" title="dt money" src="/src/toreadme//ezgif.com-gif-maker.gif" />
+	<p align="center"> 
+	Você pode ver uma demonstranção do projeto <a href="https://jpmoney.netlify.app/"> aqui! <a/>
+		
+</div>
 	
-	  Or testar localmente.
+ou testar localmente.
   ```bash
 # Clone o repositório,
 $ git clone <https://github.com/jpbenjamim/dtmoney>
@@ -34,18 +39,29 @@ $ npm run start ou  yarn dev
 
 # A aplicação vai inciar: Accesse <http://localhost:3000>
 ```                                                                                                              
-                                                                                                                 
-### 🛠 Tecnologias
----
-Tecnologias usadas nesse projeto:
-
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Axios](https://axios-http.com/)
-- [Polished](https://polished.js.org/)
-- [MirageJS](https://miragejs.com/)                                                                                                                 
+                                                                                                                                                                                                                         
                          
-### 📚 Aprendizado.
+
+
+# 
+	
+
+<h4 align="center"> 
+	🚧 🚀 Projeto Finalizado...  🚧
+  </h4>
+
+
+
+<p>
+ <a href="#objetivo">Objetivo</a> • 
+ <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#autor">Autor</a>
+</p>
+
+
+  
+  
+  ###  Objetivo.
 ---
 - Como usar Styled components.
 - Definir global style.
@@ -58,33 +74,16 @@ Tecnologias usadas nesse projeto:
 - Passando argumentos para componentes com Styled components.
 - Contextos para compartilhar estados entre diferentes componentes
 - Usando ReactContext.
-
-# 
-<div align="center">	
-<img  alt="gif dt money" title="dt money" src="/src/toreadme//ezgif.com-gif-maker.gif" />
-  <div/>
-
-<h4 align="center"> 
-	🚧 🚀 Projeto Finalizado...  🚧
-  </h4>
-
-
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> • 
- <a href="#tecnologias">Tecnologias</a> •  
- <a href="#autor">Autor</a>
-</p>
-
-
   
-  ## Objetivo 
-  
-  #### Testar e aprimorar React e Typscript.
-  
-  ## Tecnologias
-  
-  #### React, styled components, Typescript.
+ ### Tecnologias:
+ ---
+
+ Tecnologias usadas nesse projeto
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/)
+- [Polished](https://polished.js.org/)
+- [MirageJS](https://miragejs.com/)    
   
   ## Autor
   
